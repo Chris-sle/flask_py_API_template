@@ -1,4 +1,3 @@
-```markdown
 # Flask API Template
 
 This is a simple template for creating RESTful APIs with Flask.
