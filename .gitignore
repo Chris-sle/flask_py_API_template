@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# Other files to ignore
+*.log
